@@ -2,7 +2,7 @@
 
 A reinforcement learning snake game that trains itself using Deep Q-Learning (DQN). Watch a neural network learn to play snake in real-time with full visualization of the training process.
 
-![Snake AI Training](screenshots/screenshot.png)
+<img width="1200" height="824" alt="Screenshot 2026-01-02 at 22 22 00" src="https://github.com/user-attachments/assets/ef718777-3569-47a1-8d2d-9c7cfe319f4f" />
 
 ## Features
 
